@@ -27,7 +27,7 @@ topological structure of the graph.
 
 We’re excited by what kinds of applications people can build with the Cycles model.
 
-For a brief overview of the concepts underlying Cycles, see [Concepts](./concepts).
+For a brief overview of the concepts underlying Cycles, see [Concepts](./concepts.md).
 
 You may also consult the [glossary](https://cycles.money/glossary). 
 
