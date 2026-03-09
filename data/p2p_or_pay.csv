@@ -1,0 +1,6 @@
+debtor,creditor,amount,o/c,weight
+alice,bob,30,o,1
+charlie,alice,20,o,1
+bob,charlie,20,c,0
+$,alice,20,o,1
+bob,$,20,c,-1

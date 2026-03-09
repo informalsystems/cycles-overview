@@ -1,0 +1,9 @@
+debtor,creditor,amount,o/c
+alice,N,100,o
+N,bob,80,o
+N,charlie,80,o
+bob,2,80,c
+charlie,3,80,c
+1,alice,100,c
+2,1,100,c
+3,2,100,c
