@@ -1,6 +1,6 @@
-# Cycles Protocol
+# Cycles Overview
 
-Cycles is a new approach to private and capital-efficient finance. Our mission is  to:
+Cycles is a new approach to private and capital-efficient finance. Our mission is to:
 
 ```admonish summary
 Clear the most debt, for the most people, with the least money
@@ -23,9 +23,21 @@ topological structure of the graph.
 
 *Respect the graph.*
 
+## Concepts and Applications
 
-## Important links
+We’re excited by what kinds of applications people can build with the Cycles model.
 
-- Read the [Cycles Whitepaper](https://cycles.money/whitepaper.pdf).
-- Visit our website [cycles.money](https://cycles.money).
-- Follow us [@cyclesmoney](https://x.com/cyclesmoney) on X.
+For a brief overview of the concepts underlying Cycles, see [Concepts](./concepts).
+
+You may also consult the [glossary](https://cycles.money/glossary). 
+
+For a set of python notebooks on how to put the concepts to work, see
+[notebooks](./notebooks)
+
+
+## References
+
+- [Cycles Whitepaper](https://cycles.money/whitepaper.pdf)
+- [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452)
+
+
