@@ -31,8 +31,8 @@ For a brief overview of the concepts underlying Cycles, see [Concepts](./concept
 
 You may also consult the [glossary](https://cycles.money/glossary). 
 
-For a set of python notebooks on how to put the concepts to work, see
-[notebooks](./notebooks)
+For a set of python notebooks on how to put the concepts to work in new kinds of
+financial applications like discount latters and multilateral DeXs, see [notebooks](./notebooks)
 
 
 ## References
