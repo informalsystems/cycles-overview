@@ -23,8 +23,11 @@ The Cycles model comprises the following set of principles:
 2. All nodes are balance sheets
 3. All relations between nodes are directed edges in the graph
 4. There are two types of edges:
+
     a. Obligation (from debtor to creditor) - commitment to a past liability
+
     b. Acceptance (from creditor to debtor) - commitment to a future liability
+
 5. All settlements are cyclic flows in the graph.
 6. Settlement of an acceptance spawns an obligation
 
@@ -58,7 +61,7 @@ The foundational insight of Cycles is that obligations that form a closed loop
 can be discharged up to the smallest obligation in the cycle, reducing the gross
 amount of money actually needed to fully settle them:
 
-![Obligations](../imgs/obligations.png)
+![Obligations](./imgs/obligations.png)
 
 Note that the smallest obligation was fully discharged, while the other two were
 partially discharged. This is a simple example of size 3, but closed loops like this can come in any size.
@@ -94,7 +97,7 @@ Alice pays Bob with bank money. The bank has an obligation to Alice (her money
 in the bank), who has one to Bob (the money she owes him for a bill), who has an acceptance to the bank (he's willing to be owed by the bank). After settlement, 
 the obligations have been settled and the acceptance from Bob to the Bank has become an obligation from the Bank to Bob. 
 
-![Obligations and Acceptances](../imgs/obligation_acceptance.jpg)
+![Obligations and Acceptances](./imgs/obligation_acceptance.jpg)
 
 
 This makes clear that:
@@ -148,7 +151,7 @@ We already saw this in the previous figure about obligations and acceptances wit
 money. Here we have the same idea, but replace the Bank with a USDC liquidity
 node and add some more participants:
 
-![Tender](../imgs/tender.png)
+![Tender](./imgs/tender.png)
 
 In Cycles, the obligation from the USDC node to Alice is what we would call tendered funds,
 since they are available for settlement. We also refer to it as a tendered
