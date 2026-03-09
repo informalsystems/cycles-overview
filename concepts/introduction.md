@@ -1,0 +1,31 @@
+# Cycles Protocol
+
+Cycles is a new approach to private and capital-efficient finance. Our mission is  to:
+
+```admonish summary
+Clear the most debt, for the most people, with the least money
+```
+
+Cycles is designed to unlock sources of savings, yield, and growth that aren't
+otherwise accessible. The design is based on a core insight: 
+liquidity resides within cycles in the payment network’s structure and can be
+accessed via settlement flows optimized to reduce debt. 
+
+Cycles changes the framing from a bilaeral, transactional view of the world to a
+multilateral, network-based one. This unlocks entirely new forms of
+capital-efficiency and applications that leverage it.
+
+Cycles takes a first-principles approach. It recognizes that the economy is not a
+multi-asset spot market, but rather a network of balance sheets. Cycles begins not
+from coins, but from obligations and acceptances, which are commitments to debts in the past and in the future. 
+These are the stuff from which the mystical magic of liquidity emerges. Liquidity is a
+topological structure of the graph. 
+
+*Respect the graph.*
+
+
+## Important links
+
+- Read the [Cycles Whitepaper](https://cycles.money/whitepaper.pdf).
+- Visit our website [cycles.money](https://cycles.money).
+- Follow us [@cyclesmoney](https://x.com/cyclesmoney) on X.
